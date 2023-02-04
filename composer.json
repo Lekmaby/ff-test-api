@@ -1,6 +1,9 @@
 {
     "name": "kins/ff-test-api",
     "type": "project",
+    "require": {
+        "php": "^7.4.3"
+    },
     "require-dev": {
         "phpunit/phpunit": "^9.6"
     },
@@ -21,6 +24,5 @@
             "name": "kins",
             "email": "kins.alexander@gmail.com"
         }
-    ],
-    "require": {}
+    ]
 }
